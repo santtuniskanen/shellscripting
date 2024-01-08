@@ -1,3 +1,3 @@
 # shellscripting
-This repository includes a bunch of shell scripts
-I'm creating to practise the art of scripting.
+
+This repository contains scripts for my computers, written in Bash or Powershell.
